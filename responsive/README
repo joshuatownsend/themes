@@ -1,0 +1,8 @@
+This theme is mainly based on merge request #112 by Thomas Mayer
+https://gitorious.org/owncloud/owncloud/merge_requests/112
+with some modifications by Florian Hülsmann <fh@cbix.de>
+
+INSTALLATION
+Put the following key into your config/config.php:
+
+"theme" => "responsive",
